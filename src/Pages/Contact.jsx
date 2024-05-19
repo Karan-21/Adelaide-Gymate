@@ -25,7 +25,7 @@ function Login() {
             <div className="grid grid-cols-2 grid-rows-2 gap-y-20 min620:grid-cols-1 min620:mx-auto">
               <div className="flex flex-col relative">
                 <h3 className="text-[2rem] font-bold mb-10">
-                  New York City, USA
+                  South Australia, Adelaide
                 </h3>
                 <span className="bg-[#ff0336] w-[50px] h-[4px] absolute top-[33px]"></span>
                 <p className="text-[15px] font-medium text-[#646464]">
